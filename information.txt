@@ -1,0 +1,7 @@
+The sequences from SILVA 138, filtered were Fungi (Dikarya only) and protist (SAR, Amoebozoa, Excavata). total 56.691. Therefore, all data generated in the excel
+shows the coverage of the candites over the pool of 56.691 sequences. I removed 16S from the data.
+
+tip: the sequences were test using a software that is not so precise, but is fast and can do the job. If you need a more precise accuracy,
+you should test the selected sequence candidate in the website : https://www.arb-silva.de/search/testprobe/
+
+All of then are for the V4 region of the 18S
